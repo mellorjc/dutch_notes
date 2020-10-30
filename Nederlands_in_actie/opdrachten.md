@@ -52,3 +52,30 @@ Ik zit bij geen club.
 # b
 
 # Opdracht 2
+
+werktijden : werk + tijden
+
+ziekenhuis : zieken + huis
+
+studieproblemen : studie + problemen
+
+hoorcollege : hoor + college
+
+werkgroepen : werk + groepen
+
+studentenhuis : studenten + huis 
+
+sportvereniging : sport + vereniging
+
+vrijetijdbesteding : vrijetijds + besteding
+
+seizoenskaart : seizoens + kaart
+
+
+# Opdracht 3
+
+**1. Wat doe je als het regent?**
+
+Waneer het regent kijk ik televisie.
+
+
