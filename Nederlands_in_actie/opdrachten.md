@@ -76,6 +76,9 @@ seizoenskaart : seizoens + kaart
 
 **1. Wat doe je als het regent?**
 
-Waneer het regent kijk ik televisie.
+**Dan** kijk ik televisie.
 
+**2. Wat doe je op zaterdag?**
+
+**Dan** fiets ik.
 
