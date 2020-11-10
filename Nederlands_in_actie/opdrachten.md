@@ -103,13 +103,18 @@ seizoenskaart : seizoens + kaart
 
 1. Wat wil Joost Veldman doen? 
 
+
 2. Welke banen heeft hij gedaan, of gaat hij nog doen?
+
 
 3. Waarom doet hij dit project?
 
+
 4. Verdient het goed?
 
-5. Waarom werkt hij maar 175 dagen?
+5. Waarom werkt hij maar 175 dagen? 
+Omdat hij niet op Weekenden niet wilde werken. Hij wil ook een dag in de week thuis zijn bij zijn dochter. 
+Verder hij heeft vakantiedagen
 
 6. Wanneer is een baan een droombaan?
 
