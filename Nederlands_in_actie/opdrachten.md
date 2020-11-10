@@ -76,27 +76,27 @@ seizoenskaart : seizoens + kaart
 
 **1. Wat doe je als het regent?**
 
-**Dan** kijk ik televisie.
+**Dan** <ins>kijk ik televisie.</ins>
 
 **2. Wat doe je op zaterdag?**
 
-**Dan** fiets ik.
+**Dan** <ins>fiets ik.</ins>
 
 
 
 # Opdracht 12
 
-1. Eeen bezoek aan een pretpark kost **gemiddeld** £40,-.
+1. Eeen bezoek aan een pretpark kost <ins>**gemiddeld**</ins> £40,-.
 
-2. Op deze weg mag je maar tachtig kilometer **per** uur rijden.
+2. Op deze weg mag je maar tachtig kilometer <ins>**per**</ins> uur rijden.
 
-3. Na mijn werk heb ik tijd om **aandacht** aan mijn kinderen te besteden. 
+3. Na mijn werk heb ik tijd om <ins>**aandacht**</ins> aan mijn kinderen te besteden. 
 
-4. Ik hoorde je mobiel Ik denk dat je een nieuw **bericht** hebt. 
+4. Ik hoorde je mobiel Ik denk dat je een nieuw <ins>**bericht**</ins> hebt. 
 
-5.  Het personeel van ons hotel **voorzien in** al uw wensen voor een heerlijk weekend! 
+5.  Het personeel van ons hotel <ins>**voorzien in**</ins> al uw wensen voor een heerlijk weekend! 
 
-6. Ik vergeet de muziek uit mijn <ins> **jeugd** </ins> nooit meer. Ik ken alle liedjes nog. 
+6. Ik vergeet de muziek uit mijn <ins> **jeugd**</ins> nooit meer. Ik ken alle liedjes nog. 
 
 
 # Opdracht 16
@@ -113,8 +113,8 @@ seizoenskaart : seizoens + kaart
 4. Verdient het goed?
 
 5. Waarom werkt hij maar 175 dagen? 
-Omdat hij niet op Weekenden niet wilde werken. Hij wil ook een dag in de week thuis zijn bij zijn dochter. 
-Verder hij heeft vakantiedagen
+<ins>Omdat hij niet op Weekenden niet wilde werken. Hij wil ook een dag in de week thuis zijn bij zijn dochter. 
+Verder hij heeft vakantiedagen</ins>
 
 6. Wanneer is een baan een droombaan?
 
