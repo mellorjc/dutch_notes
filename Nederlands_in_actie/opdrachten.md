@@ -96,7 +96,7 @@ seizoenskaart : seizoens + kaart
 
 5.  Het personeel van ons hotel **voorzien in** al uw wensen voor een heerlijk weekend! 
 
-6. Ik vergeet de muziek uit mijn **jeugd** nooit meer. Ik ken alle liedjes nog. 
+6. Ik vergeet de muziek uit mijn <ins> **jeugd** </ins> nooit meer. Ik ken alle liedjes nog. 
 
 
 # Opdracht 16
