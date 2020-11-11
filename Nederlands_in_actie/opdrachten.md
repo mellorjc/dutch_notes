@@ -120,3 +120,9 @@ Verder hij heeft vakantiedagen.</ins>
 
 6. Wanneer is een baan een droombaan?
 <ins>Zodra mensen hun ei erin kwijt kunnen, is het hun droombaan.</ins>
+
+
+# Opdracht 24
+
+Hoi <ins> </ins>
+
