@@ -109,7 +109,7 @@ seizoenskaart : seizoens + kaart
 <ins>Hij de dagen ervoor werkte als schoenmaker, bakker, meubelmaker en bierbrouwer.</ins>
 
 3. Waarom doet hij dit project?
-<ins> </ins>
+<ins> Hij wil mensen inspireren</ins>
 
 4. Verdient het goed?
 <ins>Nee, Zelf verdient hij dus een jaar geen geld.</ins>
