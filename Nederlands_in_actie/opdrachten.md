@@ -106,16 +106,17 @@ seizoenskaart : seizoens + kaart
 
 
 2. Welke banen heeft hij gedaan, of gaat hij nog doen?
-
+<ins>Hij de dagen ervoor werkte als schoenmaker, bakker, meubelmaker en bierbrouwer.</ins>
 
 3. Waarom doet hij dit project?
-
+<ins> </ins>
 
 4. Verdient het goed?
+<ins>Nee, Zelf verdient hij dus een jaar geen geld.</ins>
 
 5. Waarom werkt hij maar 175 dagen? 
 <ins>Omdat hij niet op Weekenden niet wilde werken. Hij wil ook een dag in de week thuis zijn bij zijn dochter. 
-Verder hij heeft vakantiedagen</ins>
+Verder hij heeft vakantiedagen.</ins>
 
 6. Wanneer is een baan een droombaan?
 
