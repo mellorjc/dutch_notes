@@ -102,6 +102,7 @@ seizoenskaart : seizoens + kaart
 # Opdracht 16
 
 1. Wat wil Joost Veldman doen? 
+<ins>Joost Veldman wil in een jaar 175 droombanen proberen.</ins>
 
 
 2. Welke banen heeft hij gedaan, of gaat hij nog doen?
