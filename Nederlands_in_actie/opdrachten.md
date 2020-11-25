@@ -130,7 +130,11 @@ Hoi <ins> </ins>
 
 # Hoofdstuk 1: Taalbiografie
 
-Mijn moedertaal is Engels. Ik heb Duits in middelbare school voor vijf jaren geleerd en Ik heb ook Frans in middelbare school voor een jaar geleerd maar Ik spreek hen niet goed. Ik leer nu drie jaar Nederlands. Ik heb Nederlandse les. Ik gebruik Duolingo met tussenpozen en Ik kijk Nederlanderse televisieprogramma's soms ook. 
+~~Mijn moedertaal is Engels. Ik heb Duits in middelbare school voor vijf jaren geleerd en Ik heb ook Frans in middelbare school voor een jaar geleerd maar Ik spreek hen niet goed. Ik leer nu drie jaar Nederlands. Ik heb Nederlandse les. Ik gebruik Duolingo met tussenpozen en Ik kijk Nederlanderse televisieprogramma's soms ook. ~~
 
 
 Mijn moedertaal is Engels. Ik heb vijf jaar Duits op de middelbare school gehad en Ik heb ook een jaar Frans op middelbare school gehad maar Ik spreek hen niet goed. Ik leer nu drie jaar Nederlands. Ik heb Nederlandse les. Ik gebruik Duolingo met af en te en Ik kijk soms ook Nederlanderse televisieprogramma's. 
+Mijn jongens zijn zowel Brits als Nederlands, dus ik wil ze begrijpen als ze Nederlands gaan spreken. het is goed waneer ik begrijp iets vandag ik niet gisteren. 
+Ik vind luisteren de meeste moeilijk ding. Ik denk luisteren is mijn focuspunten. 
+
+
