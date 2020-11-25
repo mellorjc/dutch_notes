@@ -126,3 +126,8 @@ Verder hij heeft vakantiedagen.</ins>
 
 Hoi <ins> </ins>
 
+
+
+# Hoofdstuk 1: Taalbiografie
+
+Mijn moedertaal is Engels. Ik heb Duits in middelbare school voor vijf jaren geleerd en Ik heb ook Frans in middelbare school voor een jaar geleerd maar Ik spreek hen niet goed. Ik leer nu drie jaar Nederlands. Ik heb Nederlandse les. Ik gebruik Duolingo met tussenpozen en Ik kijk Nederlanderse televisieprogramma's soms ook. 
